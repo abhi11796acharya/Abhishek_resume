@@ -72,16 +72,16 @@ Seeking a position where I can utilize my skills that effectively contribute to 
  		 \multicolumn{1}{|c|}{2013}&
  		 \multicolumn{2}{|c|}{81.80\%}\\
  		\multicolumn{1}{|c|}{2013}&
- 		\multicolumn{1}{|c|}{Education Rajasthan, Ajmer}&
+ 		\multicolumn{1}{|c|}{Education, Ajmer}&
  		\multicolumn{1}{|c|}{}&
  		\multicolumn{2}{|c|}{}\\
  		 \hline
  		  \multicolumn{1}{|c|}{Secondary Examination}&
- 		   \multicolumn{1}{|c|}{Board of Secondary}&
+ 		   \multicolumn{1}{|c|}Board of Secondary}&
  		  \multicolumn{1}{|c|}{2011}&
  		  \multicolumn{2}{|c|}{88.17\%}\\
  			\multicolumn{1}{|c|}{2011}&
- 			\multicolumn{1}{|c|}{Education Rajasthan, Ajmer}&
+ 			\multicolumn{1}{|c|}{Education, Ajmer}&
  			\multicolumn{1}{|c|}{}&
  			\multicolumn{2}{|c|}{}\\
  		  \hline
@@ -94,14 +94,14 @@ Seeking a position where I can utilize my skills that effectively contribute to 
 	 \begin{flushleft}
 	 	\noindent {\Large \bf Internship:}\\ %don't indent this line and make it bold and large
 	 	\begin{itemize}
-        \item Successfully completed six week summer internship on \textbf{Greenhouse Power Monitoring and Control} at \textbf{ERTS LAB, IIT Bombay}.\\\textbf{Project repository link:} \href{https://github.com/abhi11796acharya/eYSIP2016-GHPowerMonitoring}{\textit{https://github.com/abhi11796acharya/eYSIP2016-GHPowerMonitoring}}
+        \item Successfully completed six week summer internship on \textbf{Greenhouse Power Monitoring and Control} under the guidance of \textbf{Prof. Kavi Arya} at \textbf{ERTS LAB, IIT Bombay}.\\\textbf{Project repository link:} \href{https://github.com/eYSIP-2016/eYSIP2016-GHPowerMonitoring}{\textit{https://github.com/eYSIP-2016/eYSIP2016-GHPowerMonitoring}}
         \end{itemize}
 	 \end{flushleft}
 
 
 	 %%%%%%%%%%%%%%%   PROJECTS     %%%%%%%%%%5
 	 \begin{flushleft}
-	 	\noindent {\Large \bf Projects Completed:}\\ %don't indent this line and make it bold and large
+	 	\noindent {\Large \bf Projects:}\\ %don't indent this line and make it bold and large
 	 	\begin{itemize}
 	 		\item  e-Yantra Robotics project on \textbf{Hazardous Waste Disposal} Theme during eYRC-2015.\\\textbf{Project repository link:} \href{https://github.com/abhi11796acharya/Hazardous-Waste-Disposal}{\textit{https://github.com/abhi11796acharya/Hazardous-Waste-Disposal}}
             \item \textbf{Slack Bus Analysis} on IEEE 14 Bus system using PSS@E simulator.
@@ -112,13 +112,7 @@ Seeking a position where I can utilize my skills that effectively contribute to 
 	 		\item Line follower robot using ATMEGA-16 Microcontroller.
 	 	\end{itemize}
 	\end{flushleft}
-	\newpage
-	\begin{flushleft}
-		\noindent {\Large \bf Current Projects:}
-		\begin{itemize}
-			\item \textbf{Six DOF Robotic Arm Controlling} through MATLAB/SIMULINK using TI's C2000 real time microcontroller.
-		\end{itemize}
-	\end{flushleft}
+	\vspace{0.6cm}
 	   %%%%%%%%%%%      technical skill %%%%%%%%	
 	   \begin{flushleft}
 	   	\noindent {\Large \bf Technical Skills:}\\ %don't indent this line and make it bold and large
@@ -126,28 +120,26 @@ Seeking a position where I can utilize my skills that effectively contribute to 
 	   		\item  Familiar with following Programming Languages
 	   		{\begin{itemize}
 	   				\item C \& C++
-	   				\item Embedded C
-	   				\item assembly
+	   				\item Embedded C and assembly
+                    \item Arduino
 	   			\end{itemize}
 	   		}
-	   		\item Worked on following micro controller and micro-processor
+	   		\item Knowledge of following micro controller and micro-processor
 	   		{\begin{itemize}
 	   				\item 8051 Microcontroller
-                    \item Atmel's ATMEGA16 \& ATMEGA2560 AVR Microcontrollers
-	   				\item TI's CC3200 SimpleLink ARM based on chip Wi-Fi Microcontroller
-	   				\item TI's C2000 Delfino F28377S Microcontroller
+                    \item ATMEGA16 \& ATMEGA2560 AVR Microcontrollers
+	   				\item CC3200 SimpleLink ARM Microcontroller
 	   				\item 8085 Microprocessor	
 	   			\end{itemize}
 	   		}
 	   		
 	   		\item Familiar with following Softwares
 	   		{\begin{itemize}
-	   				\item Matlab/Simulink
 	   				\item Proteus 8
 	   				\item Atmel Studio
                     \item Code Composer Studio V6.1
-                    \item Arduino
 	   				\item Power System Simulator for Engineers (PSS@E)
+	   				\item Matlab/Simulink 	
                     \item Fritzing
                     \item Latex
 	   			\end{itemize}
@@ -163,22 +155,6 @@ Seeking a position where I can utilize my skills that effectively contribute to 
 	     	 		\end{itemize}
 	     	 	\end{flushleft}
 	     	 	
-	     	 	
-	     
-	     %%%%%%%		co curricullar activity	%%%%%%%
-	     \begin{flushleft}
-	     	\noindent {\Large \bf Co-curricular Activities:}\\ %don't indent this line and make it bold and large
-	     	\begin{itemize}
-	     		\item \textbf{Winner} of Rangoli competition organized during Shishir'16\textit{(The Annual Socio and Cultural festival of NIT Meghalaya)}  
-	     		\item  \textbf{Winner} of \textbf{e-Yantra-2015}(\textit{A National level Robotics competition organized by IIT Bombay and sponsored by MHRD}) under theme Hazardous Waste Disposal.
-	     		\item  \textbf{Winner} of Stair Climber event organized during TechXtra-15(\textit{Annual Technical festival}),Tezpur University.
-	     		\item  \textbf{Runner up} of Track Minion event organized during TechXtra-15 (\textit{Annual Technical festival}), Tezpur University.
-	     		\item  Attended workshop on \textbf{Quadcopter} during Tryst-14 (\textit{Annual Technical festival}), IIT Delhi.
-	     		\item  \textbf{Winner} of Line follower Robot event organized during Cognitia-13(\textit{Annual Technical festival}), NIT Meghalaya.
-	     		
-	     	\end{itemize}
-	     \end{flushleft}
-	  \newpage   	 	
 	     %%%%%%% 	extra curricular activities		%%%%%%%
 	     \begin{flushleft}
 	     \noindent {\Large \bf Positions of Responsibility:}\\ %don't indent this line and make it bold and large
@@ -186,12 +162,25 @@ Seeking a position where I can utilize my skills that effectively contribute to 
 	     		\item \textbf{President} of Robotics and IOT club of NIT Meghalaya.
 	     		\item \textbf{Coordinator} of Day Event team in Shishir'16(\textit{The Annual Socio and Cultural festival of NIT Meghalaya}).
 	     		\item \textbf{Coordinator} of Technical team in Cognitia'15(\textit{The Annual Technical festival of NIT Meghalaya}).
-	     		\item \textbf{Volunteered} in Kritik Vignanam organized by NIT Awareness Drive Committee, NIT Meghalaya.
+	     		\item \textbf{Volunteered} in Kritik Vignanam organized by NIT Awareness Drive Committee, NIT Meghalaya.  
 	     		\item \textbf{Co-coordinator} of Technical team in Cognitia'14(\textit{The Annual Technical festival of NIT Meghalaya}).
                 \item \textbf{Mess Secretary} of Bamboo Huts Boys hostel of NIT Meghalaya during 2014-2015.
 	     	\end{itemize}
 	     \end{flushleft}
-
+	
+	      %%%%%%%		co curricullar activity	%%%%%%%
+	      \begin{flushleft}
+	      	\noindent {\Large \bf Co-curricular Activities:}\\ %don't indent this line and make it bold and large
+	      	\begin{itemize}
+	      		\item  \textbf{Winner} of e-Yantra-2015 under theme Hazardous Waste Disposal.
+	      		\item  \textbf{Winner} of Stair Climber event organized by TechXtra-15(\textit{annual Technical festival}),Tezpur University.
+	      		\item  \textbf{Runner up} of Track Minion event organized by TechXtra-15 (\textit{annual Technical festival}), Tezpur University.
+	      		\item  Attended workshop on \textbf{Quadcopter} during Tryst-14 (\textit{annual Technical festival}), IIT Delhi.
+	      		\item  \textbf{Winner} of Line follower Robot event organized by Cognitia-13(\textit{annual Technical festival}), NIT Meghalaya.
+	      		
+	      	\end{itemize}
+	      \end{flushleft}
+	
 	      %%%%%%%%%%	personal details 	%%%%%%%
 	\vspace{0.6cm}
 	      \begin{flushleft}
